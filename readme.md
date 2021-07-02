@@ -13,4 +13,4 @@ where
 B0(t) = (1-t)^3, B1(t) = 3t(1-t)^2, B2(t) = 3t^2(1-t), B3(t) = t^3
 
 # Demo
-![fsm](./img/demo.png)
+![demo](./img/demo.png)
